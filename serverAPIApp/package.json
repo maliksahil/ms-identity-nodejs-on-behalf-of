@@ -1,0 +1,14 @@
+{
+  "name": "webapi",
+  "version": "0.0.0",
+  "description": "Express 4.x webapi using Passport Azure AD for authentication via OpenID Connect with Azure AD.",
+  "author": "Sahil Malik",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.1",
+    "passport-azure-ad": "^4.2.1"
+  }
+}
